@@ -487,9 +487,155 @@
 
 .div7 h6 {
     width: 800px;
-    margin-top: -2100px;
+    margin-top: -2075px;
     padding-left: 300px;
     font-size: 16px;
     line-height: 32px;
     color: #B9C0C1;
+}
+
+.calc img {
+    padding-left: 550px;
+    margin-top: -32px;
+}
+
+.div8 {
+    margin-top: -180px;
+}
+
+.div9 {
+    margin-top: -333px;
+    padding-left: 300px;
+}
+
+.div10 {
+    width: 276px;
+    height: 139px;
+    background: #FFFFFF;
+    box-shadow: 10px 24px 54px rgba(0, 0, 0, 0.06);
+    border-radius: 10px;
+    margin-left: 950px;
+    margin-top: -260px;
+}
+
+.div10 img {
+    padding-left: 1px;
+    margin: 25px;
+}
+
+.div10 h1 {
+    padding-left: 55px;
+    margin-top: -94px;
+}
+
+.div10 h2 {
+    margin: -20px;
+    padding-left: 100px;
+    font-size: 16px;
+    line-height: 18px;
+    color: #B9C0C1;
+}
+
+.div10 h3 {
+    padding-left: 45px;
+    margin: 9px;
+}
+
+.container2 h1 {
+    color: #F75532;
+
+}
+
+.container2 h1 span {
+    color: #001f29;
+
+}
+
+.container2 h1 {
+    margin: 300px;
+    margin-left: 80px;
+}
+
+.container2 h2 {
+width: 800px;
+padding-left: 380px;
+margin: -300px;
+font-weight: 4300;
+font-size: 16px;
+line-height: 32px;
+color: #B9C0C1;
+}
+.home h1{
+color: #001F29;
+padding-left: 500px;
+margin-top: 170px;
+}
+.home h2{
+    padding-left: 882px;
+}
+.home h3{
+    padding-left: 581px;
+    margin-top: 305px;
+color: #B9C0C1;
+    
+}
+.home h4{
+    padding-left: 582px;
+    margin-top: 15px;
+color: #B9C0C1;
+    
+}
+.home h5{
+    padding-left: 583px;
+    margin-top: 15px;
+color: #B9C0C1;
+}
+.type h1{
+    position: absolute;
+    width: 946px;
+    height: 528px;
+    color: #001F29;
+    padding-left:700px;
+margin-top: 142px;
+   
+}
+.type h2{
+    padding-left: 1085px;
+    padding-top: 185px;
+}
+.type h3{
+    padding-left: 788px;
+    margin-top: 305px;
+    color: #B9C0C1;
+}
+.type h4{
+    padding-left: 775px;
+    margin: 15px;
+    color: #B9C0C1;
+}
+.contact h1{
+    width: 2000px;
+    color: #001F29;
+    padding-left: 1000px;
+   margin-top: -150px;
+}
+.contact h2{
+    padding-left: 1380px;
+    color: #B9C0C1;
+}
+.contact h3{
+    padding-left: 1080px;
+    margin-top: 305px;
+    color: #B9C0C1;
+}
+.contact h4{
+    padding-left: 1080px;
+    margin-top: 15px;
+    color: #B9C0C1;
+}
+.contact h5{
+    width: 3000px;
+    padding-left: 1080px;
+    margin-top: 15px;
+ color: #B9C0C1;
 }
